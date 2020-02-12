@@ -1,4 +1,4 @@
-# Stackery CRUD Demo - Python 3.7
+# Stackery CRUD Demo - Python
 
 This is a sample template for a serverless AWS Lambda application, written in Python.
 
